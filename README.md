@@ -73,8 +73,8 @@ Next, I normalised both curves and shifted the insulin curve to meet the peak ti
 
 An example curve for 15 grams of carbs (from an apple): 
 
-<img width="595" alt="Screenshot 2021-01-03 at 8 59 25 PM" src="https://user-images.githubusercontent.com/46085409/103483325-84d41e00-4e0c-11eb-85db-f2ca9311c241.png">
-<img width="595" alt="Screenshot 2021-01-04 at 8 02 06 AM" src="https://user-images.githubusercontent.com/46085409/103496753-56366180-4e65-11eb-86ff-951a186fb3a8.png">
+<img width="511" alt="Screenshot 2021-01-03 at 8 59 25 PM" src="https://user-images.githubusercontent.com/46085409/103483325-84d41e00-4e0c-11eb-85db-f2ca9311c241.png">
+<img width="511" alt="Screenshot 2021-01-04 at 8 02 06 AM" src="https://user-images.githubusercontent.com/46085409/103496753-56366180-4e65-11eb-86ff-951a186fb3a8.png">
 
 
 
