@@ -56,7 +56,7 @@ The expoential model was a decent fit and it is the one I will be using.
 
 ## Modelling Glycemic Index 
 I tried to model the glycemic index of food in the following way - I took cgm readings after  consumption of 15 grams of carbs in different foods, provided that there was no insulin on board. I fitted the data to a polynomial curve and found the peak of the graph. 
-I shifted the insulin curves according to the peak time for the glycemic index curve. This way we can calculate the time difference between insulin and food consumption to get matched curve trends which give relatively steady blood sugar after meals.
+Next, I normalised both curves and shifted the insulin curve to meet the peak time for the glycemic index curve. This way we can calculate the time gap between insulin and food consumption to get matched curve trends which can give relatively steady blood sugar after meals.
 
 
 
