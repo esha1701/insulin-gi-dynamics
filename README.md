@@ -94,7 +94,7 @@ An example curve for 15 grams of carbs (from an apple):
 
 
 
-## Assumptions & drawbacks 
+## Assumptions & Drawbacks 
 
 - Subcutaneous insulin absorption can be influenced by many factors such as location of injection site, temperature and blood flow near the injection site. It is difficult to consider these factors in determining insulin activity curves since they vary each time and are impossible to quantify.
 - YDMV (your diabetes may vary) will always be a challenge while building solutions for diabetes. The insulin curves are fit to consolidation of data in clinical trials from a large number of diabetics. Insulin action, however, differs among each individual. No curve will be able to give precise readings for two different people or even for the same person at different points in time.
